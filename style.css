@@ -1,0 +1,14 @@
+#fpara{
+    background-color: greenyellow;
+}
+#spara{
+    background-color: greenyellow;
+}
+
+#line{
+    text-align: right;
+    border-right: 2px solid purple;
+}
+#new{
+    text-align: left;
+}
